@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "title": "Matematika",
+    "description": "Algebra va geometriya asoslari o‘rganiladi. O‘rta darajadagi testlar mavjud. Testlar: tenglamalar, nisbatlar, geometriya, statistika.",
+    "postedAt": "2025-05-28",
+    "teacherId": 2,
+    "status": "active"
+  },
+  {
+    "id": 2,
+    "title": "Fizika",
+    "description": "Mexanika va elektr hodisalari o‘rganiladi. Murakkab darajadagi testlar mavjud. Testlar: kuch, energiya, yorug‘lik, elektromagnit.",
+    "postedAt": "2025-05-26",
+    "teacherId": 3,
+    "status": "active"
+  },
+  {
+    "id": 3,
+    "title": "Ingliz tili",
+    "description": "Grammatika va speaking rivojlantiriladi. Test yo‘q. Baholash og‘zaki va yozma topshiriqlar orqali.",
+    "postedAt": "2025-05-20",
+    "teacherId": 7,
+    "status": "inactive"
+  },
+  {
+    "id": 4,
+    "title": "Kimyo",
+    "description": "Moddalar va reaksiyalar o‘rganiladi. O‘rta darajadagi testlar mavjud. Testlar: atom, bog‘lar, kislotalar.",
+    "postedAt": "2025-05-15",
+    "teacherId": 4,
+    "status": "active"
+  }
+]
